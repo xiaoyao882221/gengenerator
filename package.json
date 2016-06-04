@@ -1,0 +1,23 @@
+{
+  "name": "gengenerator",
+  "version": "1.0.0",
+  "description": "A useless generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tngan/gengenerator.git"
+  },
+  "keywords": [
+    "es6",
+    "generator"
+  ],
+  "author": "tngan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tngan/gengenerator/issues"
+  },
+  "homepage": "https://github.com/tngan/gengenerator#readme"
+}
